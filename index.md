@@ -33,9 +33,9 @@ Since this web page is created for CSE 110, I decided to add a section for it. H
 - [x] Slack Sign-Up
 - [x] Student Survey
 - [x] First Day Survey
-- [] Lab 0&1
-- [] Engineer Statement
-- [] Prof Greeting
+- [ ] Lab 0&1
+- [ ] Engineer Statement
+- [ ] Prof Greeting
 
 ### Lab 0&1
 As a part of our Lab 0&1, we are instructed to:
