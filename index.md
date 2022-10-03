@@ -41,4 +41,5 @@ Since this web page is created for CSE 110, I decided to add a section for it. H
 ### Lab 0&1
 As a part of our Lab 0&1, we are instructed to:
 > Create a new file called index.md
+
 We also created a [README file](README.md) for this assignment. We were required to use Git commands such as `git commit`.
