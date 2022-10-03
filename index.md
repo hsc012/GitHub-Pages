@@ -20,6 +20,7 @@ As an undergraduate student at UCSD, I have taken the following CSE courses:
 - CSE 140
 - CSE 140L
 - CSE 110 (currently)
+
 I have learned many programming languages before but these are the primary languages I have used in order of how much I enjoy using them:
 1. Java
 2. Python
