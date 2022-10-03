@@ -3,6 +3,7 @@ Welcome to Hsi's web page for **CSE 110**! Read about [me](#about-me) below!
 
 ## About Me
 I am a 4th year cogsci major, compsci minor student at the University of California, San Diego. My hobbies are music and art. On a typical Saturday morning, I like to film singing/ukulele covers or draw on my iPad. My favorite dog breed is the Boston Terrier (example shown below)! ![](https://vetstreet.brightspotcdn.com/dims4/default/b39c83f/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F4b%2F79%2Fed7633494767bd00d07d97604c98%2FAP-W8EG6F-ph645080113.jpg)
+(Citation: https://vetstreet.brightspotcdn.com/dims4/default/b39c83f/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F4b%2F79%2Fed7633494767bd00d07d97604c98%2FAP-W8EG6F-ph645080113.jpg)
 
 My current life goal is to become a software engineer! Learn about me as a [programmer](#programmer-journey) below!
 
